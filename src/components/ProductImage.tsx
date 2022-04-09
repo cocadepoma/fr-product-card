@@ -20,5 +20,5 @@ export const ProductImage = ({ image, className, style }: Props) => {
       alt="Coffee Mug"
       style={style}
     />
-  )
+  );
 };

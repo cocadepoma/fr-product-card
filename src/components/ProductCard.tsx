@@ -30,7 +30,6 @@ export const ProductCard = ({ children, product, className, style, onChange, val
     value,
     initialValues,
   });
-
   return (
     <Provider
       value={{
